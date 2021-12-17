@@ -2,6 +2,7 @@ public hello()
 {
 int a;
 println(value of a);
-
+int b;
+println(value b);
 
 }
