@@ -1,0 +1,7 @@
+public hello()
+{
+int a;
+println(value of a);
+
+
+}
